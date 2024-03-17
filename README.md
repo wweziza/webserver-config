@@ -5,3 +5,4 @@ Nginx/apache could be multiple config, make sure just enable one to expect no co
 4. Enable the new configuration and disable the old one
 5. Restart the apache2
 6. You forgor there no number 2
+7. Run your next.js LOLLLLLLLLLLLLLLLLLL WHAT ELSE?
